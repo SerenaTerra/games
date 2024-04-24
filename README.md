@@ -8,7 +8,7 @@ Tic-Tac-Toe
 
 Pac-Man
 
-Tetris
+BlockCascade
 
 Solitaire
 
