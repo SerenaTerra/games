@@ -4,6 +4,8 @@
 
 Hangman
 
+Snake
+
 Tic-Tac-Toe
 
 Pac-Man
